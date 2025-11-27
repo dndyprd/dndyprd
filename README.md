@@ -1,8 +1,8 @@
 # Hello World! 👋 I'm Dandy Pradnyana
 
-### 💻 Full-stack Developer | 🎨 UI/UX Enthusiast | 🤖 Tech Explorer
+### 💻 Full-stack Developer | 🎨 UI/UX Designer | 🤖 Tech Enthusiast
 
-> *"Do whatever, while you can"*
+> *"Do whatever, while you can. Technology is best when it brings people together." - Let's create something extraordinary!*
 
 A passionate **Full-stack Developer** with a strong inclination towards **Front-end development** and **UI/UX Design**. I love creating seamless digital experiences that blend beautiful interfaces with robust functionality.
 
@@ -36,8 +36,6 @@ A passionate **Full-stack Developer** with a strong inclination towards **Front-
 ### **AI-Powered Object Tracking System**
 A sophisticated system that combines **YOLO for real-time object tracking** with **AI-powered data analysis**, storing insights for further processing. This project represents my passion for cutting-edge technology and practical problem-solving.
 
----
-
 ## 🎨 Design Philosophy
 
 I believe in creating **modern, futuristic interfaces** with clean aesthetics and intuitive user experiences. My color preferences lean towards **blue and green themes** that evoke trust, innovation, and growth.
@@ -51,15 +49,9 @@ I'm always open to **collaboration** and **new job opportunities**. Let's build 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dandypradnyana)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dndyprd)
 
----
-
 ## 📊 GitHub Stats
 
 ![Dandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=dndyprd&show_icons=true&theme=algolia&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dndyprd&layout=compact&theme=algolia&hide_border=true)
-
----
-
-> *"Technology is best when it brings people together." - Let's create something extraordinary!*
 
 ⭐ **Feel free to explore my repositories and don't hesitate to reach out!**
