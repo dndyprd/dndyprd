@@ -50,7 +50,7 @@ I'm always open to **collaboration** and **new job opportunities**. Let's build 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dndyprd)
 
 ## 📊 GitHub Stats
-![](https://github.com/dndyprd/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/dndyprd/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/dndyprd/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/dndyprd/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
 ⭐ **Feel free to explore my repositories and don't hesitate to reach out!**
