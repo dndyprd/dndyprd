@@ -28,6 +28,7 @@ A passionate **Full-stack Web Developer** with a strong inclination towards **Fr
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Flutter-4898EF?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 
@@ -55,9 +56,5 @@ I'm always open to **collaboration** and **new job opportunities**. Let's build 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dandypradnyana)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dndyprd)
-
-## 📊 GitHub Stats
-![](https://github.com/dndyprd/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/dndyprd/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
 ⭐ **Feel free to explore my repositories and don't hesitate to reach out!**
