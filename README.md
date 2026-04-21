@@ -32,24 +32,6 @@ A passionate **Full-stack Web Developer** with a strong inclination towards **Fr
 
 ---
 
-## 🚀 Current Focus
-
-- 🔭 Exploring **Machine Learning** with Python
-- 🌱 Learning **OpenCV** for object detection projects
-- 🎨 Sharpening my **UI/UX Design** skills
-- 🤖 Working on **YOLO-based object tracking** with AI analysis
-
-## 💼 Featured Project
-
-### **AI-Powered Object Tracking System**
-A sophisticated system that combines **YOLO for real-time object tracking** with **AI-powered data analysis**, storing insights for further processing. This project represents my passion for cutting-edge technology and practical problem-solving.
-
-## 🎨 Design Philosophy
-
-I believe in creating **modern, futuristic interfaces** with clean aesthetics and intuitive user experiences. My color preferences lean towards **blue and green themes** that evoke trust, innovation, and growth.
-
----
-
 ## 📫 Let's Connect!
 
 I'm always open to **collaboration** and **new job opportunities**. Let's build something amazing together!
